@@ -13,7 +13,7 @@ Una calculadora de escritorio **moderna, limpia y minimalista** desarrollada en 
 * **Diseño Flat / Moderno:** Botones cuadrados con alto contraste entre números (azul oscuro) y operadores principales (azul cian/turquesa).
 * **Modo Oscuro 🌙:** Selector superior para alternar o indicar el estado del tema visual.
 * **Historial Integrado:** Registro en tiempo real de todos los cálculos realizados durante la sesión.
- <img src="Calculadora Python/calculadora actual.jpg" width="200">
+ <img src="calculadora actual.jpg" width="200">
 ---
 
 ## ✨ Características Principales
@@ -48,7 +48,7 @@ calculadora-dark/
 
 * **Diseño Estilo Escritorio SIGMA.** 
 * **Panel Superior:** Indicador de estado de sonido encendido (*ON*) y celda solar decorativa integrada en la carcasa.
- <img src="Calculadora Python/calculadora final.jpg" width="200">
+ <img src="calculadora final.jpg" width="200">
 
  ## ✨ Características Agregadas
 - 🔢 **Teclado Extendido:** Soporte para dígitos estándar, doble cero (`00`) y punto decimal.
